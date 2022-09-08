@@ -1,4 +1,4 @@
-# This is Mainnly: React Routing 
+# This is Mainly: React Routing 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
